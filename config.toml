@@ -109,12 +109,22 @@ disableHugoGeneratorInject = false
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     homeSubtitle = "Uma jornada por nuvens e big data com Vanessa Marques"
 
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "about/"
-  [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "posts/"
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts"
+
+    [languages.br.menu]
+      [[languages.br.menu.main]]
+        identifier = "about"
+        name = "Sobre"
+        url = "/about"
+      [[languages.br.menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts"

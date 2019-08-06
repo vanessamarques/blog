@@ -13,7 +13,11 @@
                 </span>
             {{ end }}
 
-            <span class="theme-toggle">{{ partial "theme-icon.html" . }}</span>
+            {{ if .IsTranslated }}
+                {{ range .Translations }}
+                    <a href="{{ .Permalink }}"><span class="flag flag-icon flag-icon-{{ index $.Site.Data.langFlags (.Lang) }} flag-icon-squared"></span></a>
+                {{ end}}
+            {{ end }}
         </span>
     </span>
 </header>

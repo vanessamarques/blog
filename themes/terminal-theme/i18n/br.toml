@@ -9,6 +9,8 @@ other = "Traduções"
 [postAvailable]
 other = "Também disponível em"
 
+[translateTo]
+other = "Traduzir para:"
 
 # 404.html
 #
