@@ -1,9 +1,9 @@
-baseURL = "https://databrainiacs.com"
-title   = "DataBrainiacs"
+baseURL = "https://example.com"
+title   = "Hello Friend NG"
 
 DefaultContentLanguage = "en"
 
-theme = "terminal-theme"
+theme = "hello-friend-ng"
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
@@ -38,7 +38,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Vanessa Marques"
+  name = "Jane Doe"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -54,9 +54,11 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "A journey through big data and cloud."
+  description = "Nice theme for homepages and blogs"
   keywords = ""
   images = [""]
+
+  homeSubtitle = "Hello Friend NG"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
@@ -82,32 +84,30 @@ disableHugoGeneratorInject = false
   # Social icons
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/vmarquesdb"
+    url  = "https://twitter.com/"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:vanessamarques@databrainiacs.com"
+    url  = "mailto:nobody@example.com"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/vanessamarques"
+    url  = "https://github.com/"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/in/vanessamarquesassis"
+    url  = "https://www.linkedin.com/"
 
 [languages]
   [languages.en]
-    subtitle  = "DataBrainiacs"
+    subtitle  = "Hello Friend NG Theme"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-    homeSubtitle = "A journey through clouds and big data with Vanessa Marques"
 
-  [languages.br]
-    subtitle  = "DataBrainiacs"
+  [languages.fr]
+    subtitle  = "Hello Friend NG Theme"
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-    homeSubtitle = "Uma jornada por nuvens e big data com Vanessa Marques"
 
 [menu]
   [[menu.main]]
