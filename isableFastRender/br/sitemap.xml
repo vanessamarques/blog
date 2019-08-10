@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://localhost:1313/br/tags/3-vs/</loc>
+    <lastmod>2019-08-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/br/</loc>
+    <lastmod>2019-08-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="http://localhost:1313/br/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/br/posts/</loc>
+    <lastmod>2019-08-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="http://localhost:1313/br/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/br/tags/</loc>
+    <lastmod>2019-08-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="http://localhost:1313/br/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/br/tags/big-data/</loc>
+    <lastmod>2019-08-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/br/posts/2019/08/o-que-%C3%A9-big-data/</loc>
+    <lastmod>2019-08-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/2014/09/creating-a-new-theme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="http://localhost:1313/br/posts/2019/08/o-que-%C3%A9-big-data/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/br/tags/defini%C3%A7%C3%A3o/</loc>
+    <lastmod>2019-08-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/br/about/</loc>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="http://localhost:1313/br/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/br/posts/2014/04/comecando-com-hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/2014/04/getting-started-with-hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="http://localhost:1313/br/posts/2014/04/comecando-com-hugo/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/br/posts/2014/04/introducao-a-hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/2014/04/hugo-template-primer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="http://localhost:1313/br/posts/2014/04/introducao-a-hugo/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/br/posts/2014/03/migrando-para-hugo-de-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/2014/03/migrate-to-hugo-from-jekyll/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="http://localhost:1313/br/posts/2014/03/migrando-para-hugo-de-jekyll/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/br/index.html</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/index.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="http://localhost:1313/br/index.html"
+                />
+  </url>
+  
+</urlset>

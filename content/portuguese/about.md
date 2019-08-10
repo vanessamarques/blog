@@ -18,4 +18,4 @@ Um pouco sobre mim:
 * Sou originalmente do Rio de Janeiro, Brasil.
 * Atualmente moro em Wellington, Nova Zelândia.
 
-Se você tem qualquer coisa dizer, me mande uma mensagem! 
+Se você tem qualquer a coisa dizer, me mande uma mensagem! 

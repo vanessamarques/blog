@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on DataBrainiacs</title>
+    <link>http://localhost:1313/br/tags/</link>
+    <description>Recent content in Tags on DataBrainiacs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 10 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/br/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3 vs</title>
+      <link>http://localhost:1313/br/tags/3-vs/</link>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/br/tags/3-vs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>big data</title>
+      <link>http://localhost:1313/br/tags/big-data/</link>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/br/tags/big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>definição</title>
+      <link>http://localhost:1313/br/tags/defini%C3%A7%C3%A3o/</link>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/br/tags/defini%C3%A7%C3%A3o/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,5 +1,6 @@
 baseURL = "https://databrainiacs.com"
 title   = "DataBrainiacs"
+subtitle  = "DataBrainiacs"
 
 DefaultContentLanguage = "en"
 
@@ -15,7 +16,6 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 disqusShortname = "databrainiacs"
 
 archetypeDir = "archetypes"
-contentDir   = "content"
 dataDir      = "data"
 layoutDir    = "layouts"
 publishDir   = "public"
@@ -98,16 +98,18 @@ disableHugoGeneratorInject = false
 
 [languages]
   [languages.en]
-    subtitle  = "DataBrainiacs"
+    contentDir = "content/english"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     homeSubtitle = "A journey through cloud and big data with Vanessa Marques"
+    languageName = "English"
 
   [languages.br]
-    subtitle  = "DataBrainiacs"
+    contentDir = "content/portuguese"
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     homeSubtitle = "Uma jornada pela nuvem e big data com Vanessa Marques"
+    languageName = "Portuguese"
 
     [languages.en.menu]
       [[languages.en.menu.main]]

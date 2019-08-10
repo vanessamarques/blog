@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>definição on DataBrainiacs</title>
+    <link>http://localhost:1313/br/tags/defini%C3%A7%C3%A3o/</link>
+    <description>Recent content in definição on DataBrainiacs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 10 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/br/tags/defini%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>O que é Big Data?</title>
+      <link>http://localhost:1313/br/posts/2019/08/o-que-%C3%A9-big-data/</link>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/br/posts/2019/08/o-que-%C3%A9-big-data/</guid>
+      <description>O que é Big Data? Como vocês já devem saber, eu criei esse blog com a intenção de falar sobre computação em nuvem e big data de forma descomplicada para compartilhar algumas coisas que aprendi ao longo de alguns anos trabalhando como arquiteta de soluções.
+Mas pra fazer isso seria bom a gente começar pelo começo: afinal, o que é big data? Big = Grande Data = Dados
+Ok, é isso?</description>
+    </item>
+    
+  </channel>
+</rss>
